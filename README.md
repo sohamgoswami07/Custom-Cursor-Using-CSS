@@ -1,7 +1,9 @@
-# Custom Cursor Design 1
+# Custom Cursor Using CSS
 "Elevate Your Windows Experience with Exclusive Custom Cursor Designs!"  
 
-https://github.com/user-attachments/assets/7c2e9e21-bfe9-4f80-bcc1-8de42a5c6dc7
+https://github.com/user-attachments/assets/cb366a1e-7abe-40a3-b26e-7d0e64530877
+
+
 
 # Language are used
 HTML, CSS and JavaScript
